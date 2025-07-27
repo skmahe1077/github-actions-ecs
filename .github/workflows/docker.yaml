@@ -9,7 +9,7 @@ on:
 env:
   AWS_REGION: eu-west-1
   ECR_REGISTRY: 038462791702.dkr.ecr.eu-west-1.amazonaws.com
-  ECR_REPOSITORY: threat-model-app
+  ECR_REPOSITORY: devopstronaut
   IMAGE_TAG: latest
 
 jobs:
